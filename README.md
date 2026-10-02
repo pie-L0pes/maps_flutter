@@ -1,8 +1,6 @@
 # Flutter Maps - Traçar Rota
 
-Aplicativo desenvolvido em Flutter por **Pietra Vitória Fernandes Lopes** para a atividade de Mapas da Aula 05 do curso de Desenvolvimento de Sistemas.
-
-O projeto utiliza o **OpenStreetMap** para apresentar o mapa e o **OSRM (Open Source Routing Machine)** para realizar o cálculo de uma rota entre um local de origem e um destino escolhido pelo usuário.
+ O projeto utiliza o **OpenStreetMap** para apresentar o mapa e o **OSRM (Open Source Routing Machine)** para realizar o cálculo de uma rota entre um local de origem e um destino escolhido pelo usuário.
 
 ---
 
